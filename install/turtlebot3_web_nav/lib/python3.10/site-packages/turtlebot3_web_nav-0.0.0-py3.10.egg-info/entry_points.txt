@@ -1,0 +1,3 @@
+[console_scripts]
+ros2_bridge = turtlebot3_web_nav.ros2_bridge:main
+

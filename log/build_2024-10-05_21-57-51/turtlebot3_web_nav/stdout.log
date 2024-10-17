@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/turtlebot3_web_nav/turtlebot3_web_nav.egg-info
+writing ../../build/turtlebot3_web_nav/turtlebot3_web_nav.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlebot3_web_nav/turtlebot3_web_nav.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlebot3_web_nav/turtlebot3_web_nav.egg-info/entry_points.txt
+writing requirements to ../../build/turtlebot3_web_nav/turtlebot3_web_nav.egg-info/requires.txt
+writing top-level names to ../../build/turtlebot3_web_nav/turtlebot3_web_nav.egg-info/top_level.txt
+writing manifest file '../../build/turtlebot3_web_nav/turtlebot3_web_nav.egg-info/SOURCES.txt'
+reading manifest file '../../build/turtlebot3_web_nav/turtlebot3_web_nav.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlebot3_web_nav/turtlebot3_web_nav.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ubuntu/turtlebot3_web_nav/build/turtlebot3_web_nav/build
+creating /home/ubuntu/turtlebot3_web_nav/build/turtlebot3_web_nav/build/lib
+creating /home/ubuntu/turtlebot3_web_nav/build/turtlebot3_web_nav/build/lib/turtlebot3_web_nav
+copying turtlebot3_web_nav/__init__.py -> /home/ubuntu/turtlebot3_web_nav/build/turtlebot3_web_nav/build/lib/turtlebot3_web_nav
+copying turtlebot3_web_nav/ros2_bridge.py -> /home/ubuntu/turtlebot3_web_nav/build/turtlebot3_web_nav/build/lib/turtlebot3_web_nav
+running install
+running install_lib
+creating /home/ubuntu/turtlebot3_web_nav/install/turtlebot3_web_nav/lib/python3.10/site-packages/turtlebot3_web_nav
+copying /home/ubuntu/turtlebot3_web_nav/build/turtlebot3_web_nav/build/lib/turtlebot3_web_nav/__init__.py -> /home/ubuntu/turtlebot3_web_nav/install/turtlebot3_web_nav/lib/python3.10/site-packages/turtlebot3_web_nav
+copying /home/ubuntu/turtlebot3_web_nav/build/turtlebot3_web_nav/build/lib/turtlebot3_web_nav/ros2_bridge.py -> /home/ubuntu/turtlebot3_web_nav/install/turtlebot3_web_nav/lib/python3.10/site-packages/turtlebot3_web_nav
+byte-compiling /home/ubuntu/turtlebot3_web_nav/install/turtlebot3_web_nav/lib/python3.10/site-packages/turtlebot3_web_nav/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/ubuntu/turtlebot3_web_nav/install/turtlebot3_web_nav/lib/python3.10/site-packages/turtlebot3_web_nav/ros2_bridge.py to ros2_bridge.cpython-310.pyc
+running install_data
+creating /home/ubuntu/turtlebot3_web_nav/install/turtlebot3_web_nav/share/ament_index
+creating /home/ubuntu/turtlebot3_web_nav/install/turtlebot3_web_nav/share/ament_index/resource_index
+creating /home/ubuntu/turtlebot3_web_nav/install/turtlebot3_web_nav/share/ament_index/resource_index/packages
+copying resource/turtlebot3_web_nav -> /home/ubuntu/turtlebot3_web_nav/install/turtlebot3_web_nav/share/ament_index/resource_index/packages
+copying package.xml -> /home/ubuntu/turtlebot3_web_nav/install/turtlebot3_web_nav/share/turtlebot3_web_nav
+running install_egg_info
+Copying ../../build/turtlebot3_web_nav/turtlebot3_web_nav.egg-info to /home/ubuntu/turtlebot3_web_nav/install/turtlebot3_web_nav/lib/python3.10/site-packages/turtlebot3_web_nav-0.0.0-py3.10.egg-info
+running install_scripts
+Installing ros2_bridge script to /home/ubuntu/turtlebot3_web_nav/install/turtlebot3_web_nav/lib/turtlebot3_web_nav
+writing list of installed files to '/home/ubuntu/turtlebot3_web_nav/build/turtlebot3_web_nav/install.log'

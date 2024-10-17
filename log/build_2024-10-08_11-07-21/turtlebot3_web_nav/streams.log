@@ -1,0 +1,21 @@
+[0.448s] Invoking command in '/home/ubuntu/turtlebot3_web_nav/src/turtlebot3_web_nav': PYTHONPATH=/home/ubuntu/turtlebot3_web_nav/build/turtlebot3_web_nav/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/turtlebot3_web_nav/install/turtlebot3_web_nav/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_web_nav build --build-base /home/ubuntu/turtlebot3_web_nav/build/turtlebot3_web_nav/build install --record /home/ubuntu/turtlebot3_web_nav/build/turtlebot3_web_nav/install.log --single-version-externally-managed install_data
+[0.578s] running egg_info
+[0.578s] writing ../../build/turtlebot3_web_nav/turtlebot3_web_nav.egg-info/PKG-INFO
+[0.578s] writing dependency_links to ../../build/turtlebot3_web_nav/turtlebot3_web_nav.egg-info/dependency_links.txt
+[0.578s] writing entry points to ../../build/turtlebot3_web_nav/turtlebot3_web_nav.egg-info/entry_points.txt
+[0.579s] writing requirements to ../../build/turtlebot3_web_nav/turtlebot3_web_nav.egg-info/requires.txt
+[0.579s] writing top-level names to ../../build/turtlebot3_web_nav/turtlebot3_web_nav.egg-info/top_level.txt
+[0.579s] reading manifest file '../../build/turtlebot3_web_nav/turtlebot3_web_nav.egg-info/SOURCES.txt'
+[0.580s] writing manifest file '../../build/turtlebot3_web_nav/turtlebot3_web_nav.egg-info/SOURCES.txt'
+[0.580s] running build
+[0.580s] running build_py
+[0.581s] running install
+[0.581s] running install_lib
+[0.581s] running install_data
+[0.582s] running install_egg_info
+[0.583s] removing '/home/ubuntu/turtlebot3_web_nav/install/turtlebot3_web_nav/lib/python3.10/site-packages/turtlebot3_web_nav-0.0.0-py3.10.egg-info' (and everything under it)
+[0.583s] Copying ../../build/turtlebot3_web_nav/turtlebot3_web_nav.egg-info to /home/ubuntu/turtlebot3_web_nav/install/turtlebot3_web_nav/lib/python3.10/site-packages/turtlebot3_web_nav-0.0.0-py3.10.egg-info
+[0.583s] running install_scripts
+[0.595s] Installing ros2_bridge script to /home/ubuntu/turtlebot3_web_nav/install/turtlebot3_web_nav/lib/turtlebot3_web_nav
+[0.596s] writing list of installed files to '/home/ubuntu/turtlebot3_web_nav/build/turtlebot3_web_nav/install.log'
+[0.608s] Invoked command in '/home/ubuntu/turtlebot3_web_nav/src/turtlebot3_web_nav' returned '0': PYTHONPATH=/home/ubuntu/turtlebot3_web_nav/build/turtlebot3_web_nav/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/turtlebot3_web_nav/install/turtlebot3_web_nav/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlebot3_web_nav build --build-base /home/ubuntu/turtlebot3_web_nav/build/turtlebot3_web_nav/build install --record /home/ubuntu/turtlebot3_web_nav/build/turtlebot3_web_nav/install.log --single-version-externally-managed install_data
